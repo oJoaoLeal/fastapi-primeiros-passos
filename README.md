@@ -5,3 +5,5 @@ Foi criado um dicionário para servir de "banco de dados" para que a api fornece
 Também, foram criadas duas rotas
 A primeira rota leva para a página incial "vendas" que retorna o tamanho do dicionário vendas.
 A segunda rota vai retornar o conteúdo da posição digitada.
+
+Foi usado o uvicorn uvicorn para servir de servidor local
